@@ -54,8 +54,9 @@ The tests don’t cover every feature, but they reflect the scope of this small 
 python src/controller.py
 ```
 
+---
 
-Example Data
+## Example Data
 
 An example.json file is included.
-It can be loaded using the load_doc functionality to quickly populate the library with sample books.
+It can be loaded using the "9 Load" functionality to quickly populate the library with sample books. Then, write "example.json" as input.
