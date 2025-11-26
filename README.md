@@ -21,6 +21,7 @@ This project isn’t meant to be a full system — just a straightforward exerci
 
 ## Project Structure
 
+```
 project/
 │
 ├── src/
@@ -32,7 +33,7 @@ project/
 │ └── models_tests.py # Basic unit tests
 │
 └── example.json # Example book data for loading
-
+```
 
 ---
 
@@ -51,6 +52,7 @@ The tests don’t cover every feature, but they reflect the scope of this small 
 
 ```bash
 python src/controller.py
+```
 
 
 Example Data
