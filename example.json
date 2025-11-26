@@ -1,0 +1,93 @@
+[
+    {
+        "book_id": 1,
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "year": 2021,
+        "is_available": true
+    },
+    {
+        "book_id": 2,
+        "title": "Klara and the Sun",
+        "author": "Kazuo Ishiguro",
+        "year": 2021,
+        "is_available": true
+    },
+    {
+        "book_id": 3,
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "year": 2011,
+        "is_available": true
+    },
+    {
+        "book_id": 4,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "is_available": true
+    },
+    {
+        "book_id": 5,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupery",
+        "year": 1943,
+        "is_available": true
+    },
+    {
+        "book_id": 6,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupery",
+        "year": 1943,
+        "is_available": true
+    },
+    {
+        "book_id": 7,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "is_available": true
+    },
+    {
+        "book_id": 8,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "is_available": true
+    },
+    {
+        "book_id": 9,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "year": 1967,
+        "is_available": true
+    },
+    {
+        "book_id": 10,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "year": 1967,
+        "is_available": true
+    },
+    {
+        "book_id": 11,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "year": 1967,
+        "is_available": true
+    },
+    {
+        "book_id": 12,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "year": 1967,
+        "is_available": true
+    },
+    {
+        "book_id": 13,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "is_available": true
+    }
+]

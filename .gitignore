@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# IDE / PyCharm
+.idea/
+
+# JSON files created during tests or manual runs
+test_books.json
